@@ -1,0 +1,166 @@
+.first-width{
+    width: 50%;
+    
+}
+.first-width img{
+    width: 70%; 
+}
+section{
+    display: flex;
+    margin-left: 15%;
+    margin-bottom: 30px;
+    margin-right: 10%;
+
+   
+
+}
+span{
+    color: orange;
+}
+
+.first-heading{
+    font-size: 56px;
+    border-left: 5px solid red;
+    padding-left: 10px;
+}
+.button{
+    text-decoration: none;
+    background-color: orchid;
+    color: white;
+    font-size: 23px;
+    border-radius: 5px;
+    padding: 13px; 
+
+}
+#paragrah-focused{
+    font-size: 25px;
+    margin-bottom: 46px;
+}
+
+.second-width{
+    padding: 4%;
+    width: 50%;
+}
+.partOf-second-width{
+    width: 25%;
+    margin: 10px;
+    background-color: lightskyblue;
+    padding: 16px;
+    border-radius: 21px;
+}
+
+.partOf-second-width img{
+    width: 130px;
+    height: 146px;
+}
+
+.second-part-heading{
+    text-align: center;
+    font-size: 49px;
+}
+
+.forColor1{
+    background-color: lightpink;
+}
+.forColor2{
+    background-color: lightyellow;
+}
+
+.third-part-image img{
+    width: 360px;
+    height: 300px;
+    margin-top: 20px;
+    
+    
+}
+
+.third-part-image{
+   width: 35%;
+   margin-bottom: 60px;
+   margin-left: 11px;
+  
+}
+
+.third-part-text{
+    width: 55%;
+    margin-right: 49px;
+    margin-bottom: 60px;
+    margin-left: 70px;
+
+}
+.develop-heading{
+    font-size: 38px;
+}
+
+.third-section{
+    background-image: url("images/shape-1.png");
+    background-position: left;
+    background-position-x: 165px;
+    background-position-y: 100px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    margin-left: 2%;
+    
+}
+
+
+
+.fourth-section{
+    background-size: 200px;
+    display: flex;
+    margin-left: 15%;
+    background-image: url("images/shape-1.png");
+    background-position: right;
+    background-position-y: 180px;
+    background-position-x: 1210px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    margin-left: 220px;
+}
+
+.healthy{
+    text-align: center;
+}
+
+.last-class img{
+    border: 3px solid greenyellow;
+    padding: 5px;
+    border-radius: 30%;
+}
+
+.paragraph{
+    font-size: 22px;
+}
+
+.last-para{
+    text-align: left;
+    width: 30%;
+}
+
+.getting-border{
+    margin: 4px solid green; 
+    padding: 4px;
+    border-radius: 10px;
+}
+
+#last-section{
+    width: 110%; 
+    background-color: black;
+    color: white;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    margin-right: -20px;
+    height: 190px;
+    
+}
+.last-division{
+    text-align: center;
+    margin-left: 780px;
+}
+#mission{
+    color: white;
+    font-family:cursive; 
+}
+#twenty{
+    color: tomato;
+}
